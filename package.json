@@ -2,6 +2,7 @@
   "name": "tejesh-portfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://Tejesh-45.github.io/port-folio",
   "dependencies": {
     "framer-motion": "^11.0.0",
     "react": "^18.2.0",
